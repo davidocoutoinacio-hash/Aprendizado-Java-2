@@ -2,7 +2,7 @@
 Continuação de repositórios de estudo 
 
 
-ALGORITIMO = Tela teste para entender fundamentos usando um sistema com interface sendo feito usado por IA
+ALGORITIMO = Tela teste para entender fundamentos usando um sistema com interface sendo feito usando por IA
 
 ALGORITIMO_SIMPLES = Feito antes do ALGORITIMO descrito assima, foi feito com apoio de ia mas com total definição de funcionalidades feita por mim.
 
